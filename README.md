@@ -13,3 +13,4 @@ Use the update functionality provided by the extension manager.
 This extension is no longer actively maintained.
 
 test
+test2
