@@ -11,3 +11,5 @@ Use the update functionality provided by the extension manager.
     Extension be_groups => Info => Update
     
 This extension is no longer actively maintained.
+
+test
